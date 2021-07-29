@@ -1,0 +1,52 @@
+[
+    {
+        "post_id": 1,
+        "parent_id": null,
+        "author_id": 1,
+        "id": 1,
+        "image_path": null,
+        "date": "2020-11-12T22:20:20.270Z",
+        "content": "Wow what a great post",
+        "content_type": "text"
+    },
+    {
+        "post_id": 1,
+        "parent_id": 1,
+        "author_id": 2,
+        "id": 2,
+        "image_path": null,
+        "date": "2020-11-13T19:16:13.989Z",
+        "content": "I disagre strongly, but respectfully",
+        "content_type": "text"
+    },
+    {
+        "post_id": 1,
+        "parent_id": 1,
+        "author_id": 1,
+        "id": 3,
+        "image_path": null,
+        "date": "2020-11-13T19:16:41.935Z",
+        "content": "How dare you disagree with my opinion you awful human being, I'll take that personally",
+        "content_type": "text"
+    },
+    {
+        "post_id": 1,
+        "parent_id": null,
+        "author_id": 3,
+        "id": 4,
+        "image_path": null,
+        "date": "2020-11-13T19:16:51.015Z",
+        "content": "https://www.cs.middlebury.edu/~svancleve/goose.jpg",
+        "content_type": "image"
+    },
+    {
+        "post_id": 1,
+        "parent_id": null,
+        "author_id": 5,
+        "id": 5,
+        "image_path": null,
+        "date": "2020-11-13T19:17:19.164Z",
+        "content": "LOL what a funny meme!  It really made me ROFL :)",
+        "content_type": "text"
+    }
+]

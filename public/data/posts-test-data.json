@@ -1,0 +1,26 @@
+[
+    {
+    "title": "New hiking trail on Snake Mountain",
+    "date": "2016-12-07T23:22:33.357Z",
+    "extract": "My friends and I went for an early morning hike at Snake Mountain this past weekend and found this super cool new hiking trail which wraps around the mountain to the south",
+    "author_id": 1,
+    "id": 1,
+    "group": "Hiking Group",
+    "image_path": "/data/image1.jpg",
+    "type":  "image",
+    "munches": 5
+
+    },
+    {
+    "title": "Thought this photo was funny",
+    "date": "2019-11-10T17:10:02.357Z",
+    "extract": "I could not stop laughing when I saw this",
+    "author_id": 5,
+    "id": 2,
+    "group": "Memes",
+    "image_path": "/data/image3.jpg",
+    "type": "image",
+    "munches": 10
+    }
+
+]

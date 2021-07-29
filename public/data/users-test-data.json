@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Scott The Linux User",
+        "email": "slinux@middlebury.edu",
+        "id": 2
+    },
+    {
+        "name": "Chuck Norris",
+        "email": "cnorris@middlebury.edu",
+        "id": 5
+    },
+    {
+        "name": "Michael The Not Linux User",
+        "email": "notlinux@middlebury.edu",
+        "id": 3
+    },
+    {
+        "id": 4,
+        "name": "Griffin the Generic Middlebury Student",
+        "email": "gknapp@middlebury.edu"
+    },
+    {
+        "name": "Christopher Andrews the Wizard",
+        "id": 1,
+        "email": "candrews@middlebury.edu"
+    }
+]

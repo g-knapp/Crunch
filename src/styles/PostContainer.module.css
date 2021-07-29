@@ -1,0 +1,18 @@
+.grid_container {
+  justify-content: center;
+  align-self: flex-start;
+  flex-direction: row;
+  align-items: center;
+  align-content: space-around;
+
+
+}
+.photo{
+  border-radius: 50%;
+  padding: 5px;
+}
+/* optional: would change sizes to fit more 'nicely' but be less based on popularity 
+.item {
+    flex-grow: 1;
+} 
+*/

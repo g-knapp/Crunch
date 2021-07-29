@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Hiking Group",
+      "purpose": "This is a group for all you crunchy middkids who go hiking in shorts in December",
+      "owner": 1,
+      "date": "2016-12-07T23:22:33.357Z"
+    },
+    {
+      "name": "Memes",
+      "purpose": "End Middlebury Memes for Cruncy Teens' reign of terror on Middlebury's meme community!",
+      "owner": 2,
+      "date": "2016-12-07T23:22:33.357Z"
+    },
+    {
+      "name": "Campus Updates",
+      "purpose": "Welcome to the hub for all Middlebury-related news!",
+      "owner": 1,
+      "date": "2016-12-07T23:22:33.357Z"
+    }
+]
+
+	

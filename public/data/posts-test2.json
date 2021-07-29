@@ -1,0 +1,142 @@
+[
+    {
+        "title": "New hiking trail on Snake Mountain",
+        "date": "2016-12-07T23:22:33.357Z",
+        "extract": "My friends and I went for an early morning hike at Snake Mountain this past weekend and found this super cool new hiking trail which wraps around the mountain to the south",
+        "author_id": 1,
+        "group": "Hiking Group",
+        "image_path": "/data/image1.jpg",
+        "type": "image",
+        "munches": 5
+    },
+    {
+        "title": "New TAM trail",
+        "date": "2017-10-07T20:01:02.357Z",
+        "extract": "The new TAM trail is so nice, the foliage during the autumn is just amazing",
+        "author_id": 1,
+        "group": "Hiking Group",
+        "image_path": "/data/image2.jpg",
+        "type": "image",
+        "munches": 5
+    },
+    {
+        "title": "Thought this photo was funny",
+        "date": "2019-11-10T17:10:02.357Z",
+        "extract": "I could not stop laughing when I saw this",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image3.jpg",
+        "type": "image",
+        "munches": 10
+    },
+    {
+        "title": "Policy Path, what is this?",
+        "date": "2020-10-10T10:52:42.357Z",
+        "extract": "Why won't policy path use the app in peace!",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image4.jpg",
+        "type": "image",
+        "munches": 15
+    },
+    {
+        "title": "Finally adjusting to remote learning and then...",
+        "date": "2020-09-09T11:51:12.357Z",
+        "extract": "I was finall there and then...",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image5.jpg",
+        "type": "image",
+        "munches": 0
+    },
+    {
+        "title": "Here are the latest dates",
+        "date": "2020-12-11T10:52:42.357Z",
+        "extract": "For those that are curious",
+        "author_id": 1,
+        "group": "Campus Updates",
+        "image_path": "/data/image6.jpg",
+        "type": "image",
+        "munches": 3
+    },
+    {
+        "title": "Seating to be reintroduced in dinning halls",
+        "date": "2020-07-07T10:52:42.357Z",
+        "extract": "Finally!",
+        "author_id": 1,
+        "group": "Campus Updates",
+        "image_path": "/data/image7.jpg",
+        "type": "image",
+        "munches": 7
+    },
+    {
+        "title": "How I've felt this semester",
+        "date": "2020-10-10T11:30:22.357Z",
+        "extract": "Not all, but many professors",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image8.jpg",
+        "type": "image",
+        "munches": 8
+    },
+    {
+        "title": "Haha proc people can relate",
+        "date": "2020-11-11T11:30:22.357Z",
+        "extract": "This is so accurate",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image9.jpg",
+        "type": "image",
+        "munches": 12
+    },
+    {
+        "title": "For my polisci majors out there",
+        "date": "2020-12-12T11:30:22.357Z",
+        "extract": "The amount of readings is unreal",
+        "author_id": 1,
+        "group": "Memes",
+        "image_path": "/data/image10.jpg",
+        "type": "image",
+        "munches": 0
+    },
+    {
+        "title": "Trail around the knoll",
+        "date": "2017-10-07T20:01:02.357Z",
+        "extract": "Super nice new trail around the knoll",
+        "author_id": 1,
+        "group": "Hiking Group",
+        "image_path": "/data/image11.jpg",
+        "type": "image",
+        "munches": 4
+    },
+    {
+        "title": "Camel's Hump southern trail",
+        "date": "2017-10-07T20:01:02.357Z",
+        "extract": "Highly recommend everyone going there",
+        "author_id": 1,
+        "group": "Hiking Group",
+        "image_path": "/data/image12.jpg",
+        "type": "image",
+        "munches": 10
+    },
+    {
+        "title": "Coming to a college near you soon",
+        "date": "2017-10-07T20:01:02.357Z",
+        "extract": "Class offerings soon released",
+        "author_id": 1,
+        "group": "Campus Updates",
+        "image_path": "/data/image13.jpg",
+        "type": "image",
+        "munches": 12
+    },
+    {
+        "title": "J-term will be online",
+        "date": "2017-10-07T20:01:02.357Z",
+        "extract": "Probably as most people predicted",
+        "author_id": 1,
+        "group": "Campus Updates",
+        "image_path": "/data/image14.jpg",
+        "type": "image",
+        "munches": 9
+    }
+]

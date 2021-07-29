@@ -1,0 +1,25 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #0D395F;
+}
+
+.content {
+  float: center;
+}
+
+.sidebar {
+  float: left;
+  padding: 20px;
+}
+.img {
+  width: 700px;
+  height: 400px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  filter: blur(4px);
+}

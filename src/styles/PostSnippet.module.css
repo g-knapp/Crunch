@@ -1,0 +1,40 @@
+.PostSnippet{
+    width: 200px;
+    height: 200px;
+    padding: 0px;
+    border: 1px solid navy;
+    position:relative; 
+    background-color: lightblue;
+    border-radius: 2px;
+  }
+.heading{
+  padding: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  font-size: 80%;
+  max-height: 2.4em;
+  line-height: 1.2em;
+}
+
+.group{
+  padding: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin: 0;
+  font-size: 70%;
+  position: absolute;
+  bottom: 0;
+}  
+
+.PostSnippet img{
+  width: auto;
+  max-width: 198px;
+  height: auto;
+  max-height: 150px;
+  margin: 0px;
+  position: absolute;
+  bottom: 15px;
+  top: 35px;
+}  
